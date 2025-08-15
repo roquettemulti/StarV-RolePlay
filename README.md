@@ -7,6 +7,7 @@ pour ajouter un dlc --> regarder les [gamebuild](https://docs.fivem.net/docs/ser
 
 ## Mappings 
 - Pacifiq Banque `(x=229.23, y=214.11, z=105.54)` --> [banque]
+- Cannaux `(x=645.25, y=-1629, z=12.39)` --> cfx-nteam-river
 - Concessionnaire `(x=-664.36, y=-327.62, z=35.04)` --> molo_casino
 - Casino `(x=920.25, y=49.38, z=80.89)` --> JRCarPerseus /!\ bug de textures à l'intérieur quand on regarde par la fenêtre
 - Tunnel et routes --> [nteam-route-tunnel] :
