@@ -1,0 +1,9 @@
+# Dossier .gitignore pour le serveur FiveM StarV-RolePlay
+cache/
+server/
+txData/
+
+# Ingnore le fichier de raccourcis pour start le serveur
+FXServer.exe.lnk
+
+.replxx_history
