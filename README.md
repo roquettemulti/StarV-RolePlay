@@ -18,3 +18,6 @@ pour ajouter un dlc --> regarder les [gamebuild](https://docs.fivem.net/docs/ser
 
 ### Restaurants
 - BurgerShot `(x=-849.09, y=-803.80, z=19.25)`--> burgershot
+
+### Services
+- Police `(x=413.26, y=-980.01, z=29.43)`--> mrpd
