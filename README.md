@@ -6,6 +6,7 @@ voir les différents dlc mis dans le fichier dlc.cfg
 pour ajouter un dlc --> regarder les [gamebuild](https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build) de fivem
 
 ## Mappings 
+- Aéroport `(x=-1037.45, y=-2736.96, z=20.16)` --> Shmannworks Airport
 - Agent Immobilicer `(x=-262.64, y=-901.09, z=32.29)` --> dynasty82
 - Cannaux `(x=645.25, y=-1629, z=12.39)` --> cfx-nteam-river
 - Casino `(x=920.25, y=49.38, z=80.89)` --> JRCarPerseus /!\ bug de textures à l'intérieur quand on regarde par la fenêtre
