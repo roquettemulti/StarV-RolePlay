@@ -25,3 +25,4 @@ pour ajouter un dlc --> regarder les [gamebuild](https://docs.fivem.net/docs/ser
 
 ### Services
 - Police `(x=413.26, y=-980.01, z=29.43)`--> mrpd
+- Pompier `(x=-638.99, y=-121.59, z=38.02)`--> firemap
